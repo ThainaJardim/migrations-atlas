@@ -1,0 +1,2 @@
+-- modify "t1" table
+ALTER TABLE `t1` ADD COLUMN `id` int NOT NULL AUTO_INCREMENT, ADD COLUMN `c2` text NULL, ADD PRIMARY KEY (`id`);
