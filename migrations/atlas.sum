@@ -1,5 +1,7 @@
-h1:q4mSnMNHAhQbeQsKv1quFRVktsKx4ZSi53DHWtXF+rE=
-1_init.down.sql h1:3vzQh91VtLD7gxwK4PENvTbFJKf2LS6PCQndvM02TaM=
-1_init.up.sql h1:yA4fLhJJyZc1QKQZUHnLRTMjgkg6ZuLQpFjya8VimUQ=
-20240808180856_new_columns.down.sql h1:D4xifg2N3mkegM2OrA4BlRn1BtnETcbPOFuwkOkdQXk=
-20240808180856_new_columns.up.sql h1:SChSKAaAmxoqCjsiHXS2WBVTZat9ns7TIM2J5ldTYq0=
+h1:RzLyb+e/UJGe7WYvgt+JZwGpqGguROLy9ymYyl9RSo4=
+1_init.down.sql h1:wVuE42MzTysFuGOSrecJ2Rrzjm6dZ6mLmRaxbtZAX9I=
+1_init.up.sql h1:9eWiAAU21rTRTNexpA7bkRvOBivtfZA4LU2J4PQcBps=
+20240808180856_new_columns.down.sql h1:0bBefeKh4cAZezSqOVChdWF9kJdJnWAGu54Ko+me0Nk=
+20240808180856_new_columns.up.sql h1:GOiHuL3Sja+JNN/qIfh8FbadFXoBFsj6LMITSlp5qrA=
+20240809123728_new_columns.down.sql h1:IQylA0qjKfG1vsGXgqhH2axnlXcIhyQpeEF0mNIwCUc=
+20240809123728_new_columns.up.sql h1:nxS/twHir72LMvkDOhjuzpCPInyO2ok/H58FzBOA51c=
